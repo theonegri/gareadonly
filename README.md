@@ -2,9 +2,8 @@
 
 GAReadOnly is a simple wrapper to get the data out of google analytics using the API.
 
-In order to make the gem works, you'll few configuration steps to do in your Google API Console.
+In order to make the gem works, you'll have few configuration steps to do in your Google API Console.
 
-Currently only one method works(The only one I really needed so bad) but I'll add more method). Eventually the gem might became a full wrapper with write/delete/modify actions
 
 ## Installation
 
